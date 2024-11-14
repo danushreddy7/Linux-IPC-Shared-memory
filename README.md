@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/20508af1-8655-4197-9c3e-51a26c176b25)# Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
