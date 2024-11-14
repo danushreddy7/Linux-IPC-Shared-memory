@@ -27,6 +27,7 @@ int main() { // Generate a unique key using ftok key_t key = ftok("shmfile", 65)
 
 // Get an identifier for the shared memory segment using shmget
 int shmid = shmget(key, 1024, 0666 | IPC_CREAT);
+ 
   printf("Shared memory id = %d \n",shmid);
 
 
